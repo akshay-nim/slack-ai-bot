@@ -1,0 +1,9 @@
+uvicorn==0.34.2
+fastapi==0.115.12
+prometheus_client==0.21.1
+cachetools==5.5.2
+kubernetes_asyncio==32.3.2
+openai==1.76.2
+tenacity==9.1.2
+redis[async]==6.2.0
+
